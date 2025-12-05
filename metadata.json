@@ -1,0 +1,7 @@
+{
+  "name": "ZenCalendar Todo",
+  "description": "A minimalist Android-style calendar and todo app with lunar dates, alarms, and widgets.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
